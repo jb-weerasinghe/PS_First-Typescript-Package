@@ -3,3 +3,4 @@
 
 # 1. Create Library Package for jb-calculator
 ## 1.1.  create folder first-ts-package and create typescript file for calculator
+## 1.2 Add tsconfig.json - typescript compiler configuration
