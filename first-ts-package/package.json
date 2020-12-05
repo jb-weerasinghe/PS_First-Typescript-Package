@@ -1,0 +1,20 @@
+{
+  "name": "jb-calculator",
+  "version": "1.0.0",
+  "description": "create typescript library package with calculator functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jb-weerasinghe/PS_First-Typescript-Package.git"
+  },
+  "author": "jayampathi weerasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jb-weerasinghe/PS_First-Typescript-Package/issues"
+  },
+  "homepage": "https://github.com/jb-weerasinghe/PS_First-Typescript-Package#readme"
+}
